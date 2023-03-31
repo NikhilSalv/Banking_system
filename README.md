@@ -4,6 +4,7 @@ In this project, I have created a simple banking system application.
 The functionality is as follows:
 
 There is a parent class named User, which contains functions 2 functions (methods) :
+
 1 . Details of the user
 2 . Function to return the details of the user
 
